@@ -1,1 +1,1 @@
-# shapeai-weather-project-
+# weather-project-
